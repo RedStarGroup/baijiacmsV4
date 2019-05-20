@@ -1,6 +1,4 @@
-
-## 了解百家CMS
-### 了解百家CMS微商城
+## 关于百家CMS微商城
 产品介绍:
 
 百家CMS微商城是一款免费开源的面向对象的单店铺多用户微商城PHP开发框架，创建于2014年6月，遵循Apache Licence2开源协议发布，是为了快速简化企业微商城应用开发、帮助微商企业快速赚钱而诞生的。
@@ -26,9 +24,7 @@ Mysql版本5.1及以上
 
 Firefox、Chrome
 
-### 软件著作登记
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190513161426370.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dhb3NoYW5saXVzaHVpMTMx,size_16,color_FFFFFF,t_70)
-### 开源协议
+## 开源协议
 百家CMS（微商城） 商标和著作权所有者为福州百家威信信息技术有限责任公司
 
 百家cms微商城遵循Apache Licence2开源协议，并且免费使用。Apache Licence是著名的非盈利开源组织Apache采用的协议。该协议和BSD类似，鼓励代码共享和尊重原作者的著作权，允许代码修改，再作为开源或商业软件发布。
