@@ -1,5 +1,4 @@
 ## 关于百家CMS微商城
-产品介绍:
 
 百家CMS微商城是一款免费开源的面向对象的单店铺多用户微商城PHP开发框架，创建于2014年6月，遵循Apache Licence2开源协议发布，是为了快速简化企业微商城应用开发、帮助微商企业快速赚钱而诞生的。
 
@@ -16,7 +15,7 @@
 
 服务器端运行环境推荐：
 
-IIS/Apache + PHP5 + MySQL5推荐首先使用apache
+Nginx/Apache + PHP5 + MySQL5推荐首先使用apache
 php版本5.3以上的版本
 Mysql版本5.1及以上
 
